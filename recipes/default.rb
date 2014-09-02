@@ -8,4 +8,3 @@
 #
 
 #Install varnish
-file "/tmp/kini2"
